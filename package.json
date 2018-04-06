@@ -23,5 +23,8 @@
     "mjpeg_server",
     "web_video_server"
   ],
+  "dependencies": {
+    "eventemitter2": "^0.4.13"
+  },
   "author": "Russell Toris <russell.toris@gmail.com> (http://wpi.edu/~rctoris/)"
 }
